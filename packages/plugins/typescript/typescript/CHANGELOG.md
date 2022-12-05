@@ -1,5 +1,13 @@
 # @graphql-codegen/typescript
 
+## 2.8.4
+
+### Patch Changes
+
+- Updated dependencies [[`a6c2097f4`](https://github.com/dotansimha/graphql-code-generator/commit/a6c2097f4789c0cce4296ce349790ce29943ed22), [`a6c2097f4`](https://github.com/dotansimha/graphql-code-generator/commit/a6c2097f4789c0cce4296ce349790ce29943ed22)]:
+  - @graphql-codegen/plugin-helpers@2.7.3
+  - @graphql-codegen/visitor-plugin-common@2.13.4
+
 ## 2.8.3
 
 ### Patch Changes

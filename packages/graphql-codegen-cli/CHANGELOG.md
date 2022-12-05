@@ -1,5 +1,14 @@
 # @graphql-codegen/cli
 
+## 2.15.1
+
+### Patch Changes
+
+- [#8673](https://github.com/dotansimha/graphql-code-generator/pull/8673) [`a07b6d6c1`](https://github.com/dotansimha/graphql-code-generator/commit/a07b6d6c1b05b2f77efb398b05d29130bae429e9) Thanks [@saihaj](https://github.com/saihaj)! - dependencies updates:
+  - Removed dependency [`ansi-escapes@^4.3.1` ↗︎](https://www.npmjs.com/package/ansi-escapes/v/4.3.1) (from `dependencies`)
+- Updated dependencies [[`a6c2097f4`](https://github.com/dotansimha/graphql-code-generator/commit/a6c2097f4789c0cce4296ce349790ce29943ed22)]:
+  - @graphql-codegen/plugin-helpers@2.7.3
+
 ## 2.15.0
 
 ### Minor Changes
